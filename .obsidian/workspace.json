@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9feba404f2c1c4c8",
+        "id": "121133a02967cf7b",
         "type": "tabs",
         "children": [
           {
-            "id": "e1154e4d048ee999",
+            "id": "edb79e8faaa90a53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Welcome.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -237,8 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1154e4d048ee999",
+  "active": "edb79e8faaa90a53",
   "lastOpenFiles": [
+    "Welcome.md",
     "bew.md",
     "Telegram/new - 20250825005105207.md",
     "Telegram",
@@ -246,7 +247,6 @@
     "5_Capture/Telegram",
     "5_Capture",
     "5_Capture/Telegram/new - 20250825004821372.md",
-    "Welcome.md",
     "Untitled.md",
     "UPSC WHY.md",
     "4_ARCHIVE/Others/Attachments/UPSC WHY-1.webp",
