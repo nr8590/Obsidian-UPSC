@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "4807053a8ccd1761",
+    "type": "split",
+    "children": [
+      {
+        "id": "213f9833bd2e7f0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ace5d618b39a1c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "778e6cc55c321896",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff836462c7e97cb3",
+        "type": "tabs",
+        "dimension": 47.71634615384615,
+        "children": [
+          {
+            "id": "0faef014e218cb14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5cbf4be0382d7b2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c045f4472936cef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1340e67929f2e89a",
+        "type": "tabs",
+        "dimension": 52.28365384615385,
+        "children": [
+          {
+            "id": "998339e6d430e50f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "b5d41550056474c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "dccc69f6a5df991c",
+        "type": "tabs",
+        "dimension": 49.82857142857143,
+        "children": [
+          {
+            "id": "ad8a260ee7db969c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f13153bda9df0b0a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd054cea89115196",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b91a4afcac39d0b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "48662429e1c82b0b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b7b77d74bf4440b6",
+        "type": "tabs",
+        "dimension": 50.171428571428564,
+        "children": [
+          {
+            "id": "acc569b9ec319050",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Home.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9793681849656076,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "file-flex:File Flex": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "7ace5d618b39a1c2",
+  "lastOpenFiles": [
+    "Chats/New Chat.md",
+    "Home.md",
+    "4_Youtube/I Did Andrew Huberman’s Routine For 14 Days.md",
+    "4_Youtube/Why You Shouldn't Resist Watching Porn.md",
+    "Others/Attachments/Pasted image 20240809130934.png",
+    "4_Youtube/1_Completed Videos.md",
+    "4_Youtube/The Secret Behind Resisting Dopamine.md",
+    "Others/Attachments/Pasted image 20240809130356.png",
+    "Others/Attachments/I Did Andrew Huberman’s Routine For 14 Days (Brain hacking without nootropics).jpg",
+    "4_Youtube/Why You Struggle to Follow Through (Thinkers vs Doers).md",
+    "To Watch & Read.md",
+    "2_Movies/1_Completed Movies.md",
+    "1_Books/1_Completed Book.md",
+    "1_Books/2_To Read Book.md",
+    "4_Youtube/2_To Watch Video.md",
+    "4_Youtube/Atheism  Explained in Malayalam (With English Subtitles).md",
+    "2_Movies/4_Documentary.md",
+    "2_Movies/3_Favourite Movies.md",
+    "2_Movies/2_To Watch Movies.md",
+    "2_Movies/Doctor Strange in the Multiverse of Madness.md",
+    "2_Movies/A Moment to Remember.md",
+    "1_Books/3_Favourite Book.md",
+    "1_Books/Rich Dad Poor Dad - What the Rich Teach Their Kids About Money.md",
+    "2_Movies/The Fall Guy.md",
+    "6_Course Archive/00_Justice by Michael Sandel/02_The Lifeboat Case.md",
+    "4_Youtube/Smart Second Brain for Obsidian(Free & Offline).md",
+    "6_Course Archive/00_Justice by Michael Sandel/00_Justice by Michael Sandel.md",
+    "<Note>Red's Quotes.md",
+    "Chats",
+    "Tags",
+    "Others/Attachments/Smart Second Brain for Obsidian(Free & Offline).jpg",
+    "7_B.Tech Mech/Sem 1",
+    "7_B.Tech Mech/Sem 1",
+    "7_B.Tech Mech",
+    "mech/Whitworth-Quick-Return-Mechanism.gif",
+    "mech/Watt's_Linkage_Rear_Suspension.gif",
+    "mech/telegram-cloud-photo-size-5-6325453784750340814-y.jpg",
+    "mech/telegram-cloud-photo-size-5-6325453784750340813-y.jpg",
+    "mech/telegram-cloud-photo-size-5-6325453784750340812-y.jpg",
+    "mech/telegram-cloud-photo-size-5-6323516977838144148-y.jpg",
+    "mech",
+    "Others/Attachments/Justice Course attachments/01_Doing the Right Thing 206cc75a1ee144b89032695a378f03d9/Chapter_1_-_Doing_the_Right_Thing__21-30_.pdf",
+    "Others/Attachments/Justice Course attachments",
+    "Others/Attachments/Justice Course attachments/Harm Principle J S Mill fb94755d62b143688d2b0eb33fb2c73c",
+    "Others/Attachments/Justice Course attachments/03_Utilitarianism Jeremy Bentham 08257f50b5a0495da4a6a13bdadb2409/Chapter_2_-_Utilitarianism__37-46_.pdf"
+  ]
+}

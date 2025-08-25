@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "270d7a6dbb11118b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9feba404f2c1c4c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1154e4d048ee999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41d013d9868e4014",
+    "type": "split",
+    "children": [
+      {
+        "id": "9953c10153e95895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a55e29c4b8eb94bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "051c6038451c308a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Redwood Algorithms",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307
+  },
+  "right": {
+    "id": "6762d2aaa21ca7ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "73f50a3544c524f3",
+        "type": "tabs",
+        "dimension": 69.6,
+        "children": [
+          {
+            "id": "f183e4140cf00165",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3_RESOURCES/Resume Study/Business/24_Interview Qus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 24_Interview Qus"
+            }
+          },
+          {
+            "id": "ad025060f0bfae2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1_PROJECT/Resume Study/Software/TechPranee (SpearHub).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TechPranee (SpearHub)"
+            }
+          },
+          {
+            "id": "3e728788b2dc863f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1af76f00f7a6bdb6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.9441776987830512,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8cb1f92fbeaad310",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-history-view"
+            }
+          },
+          {
+            "id": "5eb3a8d53597d190",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "83a5119a30f3c339",
+        "type": "tabs",
+        "dimension": 30.4,
+        "children": [
+          {
+            "id": "bf7d9dc673982b32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e1154e4d048ee999",
+  "lastOpenFiles": [
+    "bew.md",
+    "Telegram/new - 20250825005105207.md",
+    "Telegram",
+    "5_Capture/Telegram/new - 20250825005047190.md",
+    "5_Capture/Telegram",
+    "5_Capture",
+    "5_Capture/Telegram/new - 20250825004821372.md",
+    "Welcome.md",
+    "Untitled.md",
+    "UPSC WHY.md",
+    "4_ARCHIVE/Others/Attachments/UPSC WHY-1.webp",
+    "4_ARCHIVE/Others/Attachments/UPSC WHY.webp",
+    "2_AREAS/Daily Notes/2025/08-August/10-08-2025-Sunday.md",
+    "4_ARCHIVE/Others/Attachments/10-08-2025-Sunday.webp",
+    "3_RESOURCES/Resume Study/Resume Study.md",
+    "1_PROJECT/Comviva_Yabx/Comviva_Yabx.md",
+    "1_PROJECT/Comviva_Yabx/People/1_My Network Map.md",
+    "1_PROJECT/Comviva_Yabx/Daily Logs/2.md",
+    "1_PROJECT/Comviva_Yabx/Daily Logs/1.md",
+    "1_PROJECT/Comviva_Yabx/People/Deepank Khandelwal.md",
+    "1_PROJECT/Comviva_Yabx/People/Piyush Arora.md",
+    "1_PROJECT/Comviva_Yabx/People/Nagendra Kumar Gupta.md",
+    "1_PROJECT/Comviva_Yabx/Templates/Daily_Log_Template.md",
+    "1_PROJECT/Comviva_Yabx/Templates/People_Profile_Template.md",
+    "1_PROJECT/Comviva_Yabx/Daily Logs/Untitled.md",
+    "1_PROJECT/Comviva_Yabx/People/Daily_Log_Template 1.md",
+    "1_PROJECT/Comviva_Yabx/People/Ayana Gupta.md",
+    "1_PROJECT/Before Job/3_30 Days.md",
+    "1_PROJECT/Before Job/2_Day 1.md",
+    "2_AREAS/Daily Notes/2025/08-August/04-08-2025-Monday.md",
+    "2_AREAS/Daily Notes/2025/08-August/05-08-2025-Tuesday.md",
+    "4_ARCHIVE/Others/Attachments/04-08-2025-Monday-3.webp",
+    "4_ARCHIVE/Others/Attachments/05-08-2025-Tuesday-3.webp",
+    "4_ARCHIVE/Others/Attachments/05-08-2025-Tuesday-2.webp",
+    "4_ARCHIVE/Others/Attachments/05-08-2025-Tuesday-1.webp",
+    "4_ARCHIVE/Others/Attachments/05-08-2025-Tuesday.webp",
+    "4_ARCHIVE/Others/Attachments/04-08-2025-Monday-2.webp",
+    "4_ARCHIVE/Others/Attachments/04-08-2025-Monday-1.webp",
+    "2_AREAS/Daily Notes/2025/08-August",
+    "1_PROJECT/Comviva_Yabx/Learnings/Credit Risk Modeling/02_Basel Guidelines.md",
+    "1_PROJECT/Comviva_Yabx/Learnings/Credit Risk Modeling",
+    "1_PROJECT/Comviva_Yabx/Learnings/Info",
+    "1_PROJECT/Comviva_Yabx/Daily Logs",
+    "1_PROJECT/Comviva_Yabx/Templates",
+    "1_PROJECT/Comviva_Yabx/People",
+    "1_PROJECT/Comviva_Yabx/Learnings",
+    "new.canvas"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "Image Align",
+    "dashboard-width"
+  ],
+  "translucency": false,
+  "accentColor": "",
+  "showViewHeader": false,
+  "theme": "obsidian",
+  "showRibbon": false
+}
